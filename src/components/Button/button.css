@@ -1,0 +1,14 @@
+#btn {
+    color: white;
+    background: black;
+    position: relative;
+    bottom: 0px;
+    width: 100vw;
+    height: 35vh;
+    margin: 0px;
+    transition: 1s;
+}
+#btn:hover {
+    background: white;
+    color: black;
+}
